@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+.vscode/
+
+# Java practice will be added later.
+/leet_jav/
